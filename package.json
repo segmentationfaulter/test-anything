@@ -1,0 +1,15 @@
+{
+  "name": "test-anything",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log_it_out.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Saqib <segmentationfaulter@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.2.2"
+  }
+}
